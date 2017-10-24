@@ -1,0 +1,17 @@
+5 REPORTES 
+* Cada uno es una vista
+*Con todo los joins necesarios
+*Almenos 1 de más de 2 tablas 
+*Almenos 1 con funciones agregadas 
+
+1 Subconsulta de parentesis 
+1 Subconsulta with
+1 tabal temporal delete into
+
+Creación de vista y su respectivo select a la vista
+
+
+SELECT Profesor.Titulo, Cuenta_profesor.Profesor_Empleado_No_empleado
+FROM Profesor
+LEFT JOIN Cuenta_profesor ON Profesor.Empleado_No_empleado = Cuenta_profesor.Profesor_Empleado_No_empleado
+ORDER BY Profesor.Titulo  
