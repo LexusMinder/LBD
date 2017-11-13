@@ -1,0 +1,9 @@
+Laboratorio de base de datos
+----------------------------
+Integrantes del equipo
+
+Jose Julio Mancha Hernandez 	1727375
+Jose Israel Guerrero Ibarra 	1734152
+Eduardo Alejandro Martinez Melo 1741697
+Saul Oswaldo Rodriguez Torres 	1743033
+Edgar Antonio Beltran Bocanegra 1751091
